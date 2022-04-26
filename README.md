@@ -4,4 +4,5 @@
 
 
 -참고한 자료-
-* 유튜브 : https://www.youtube.com/watch?v=NhXyRTZC28s
+* [유튜브](https://www.youtube.com/watch?v=NhXyRTZC28s) : HTML로 포트폴리오 만들기
+* [유튜브](https://www.youtube.com/watch?v=n1wvs7xuUYk) : github로 호스팅 사용하는 방법
