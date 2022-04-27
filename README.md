@@ -4,5 +4,6 @@
 
 
 -참고한 자료-
+* [파이널](https://github.com/inhoekim/FinalPrj) : OTT서비스 파이널 프로젝트
 * [유튜브](https://www.youtube.com/watch?v=NhXyRTZC28s) : HTML로 포트폴리오 만들기
 * [유튜브](https://www.youtube.com/watch?v=n1wvs7xuUYk) : github로 호스팅 사용하는 방법
